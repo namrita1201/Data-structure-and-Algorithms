@@ -25,5 +25,6 @@ public class PopulateAndPrintBinaryTree {
     System.out.println("*********BREADTH FIRST SEARCH**************");
     System.out.println("\nLevelOrder traversal of the binary\n ");
     BreadthFirstTraversalOfBinaryTree.traverseLevelOrder(binaryTree);
+
   }
 }
